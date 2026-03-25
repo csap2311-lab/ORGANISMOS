@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+table, th, td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color:aqua;
+}
+.h2 {
+    color:#98EBDD;/*color azul*/
+    font-size:2em;/*tamaño doble*/
+    font-family:arial,sans-serif;
+}
+.p {
+    color:#7EFF99;/*color verde*/
+    font-size: 1.2em;/*tamaño doble*/
+    font-family:arial,sans-serif;
+}
